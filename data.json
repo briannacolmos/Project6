@@ -1,0 +1,49 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "Practice your knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+        "technologies": ["HTML5", "CSS3", "JavaScript"],
+        "live_link": "https://briannacolmos.github.io/Project1/",
+        "github_link": "https://github.com/briannacolmos/Project1",
+        "image_urls": ["/static/images/Project1pic1.PNG", "/static/images/Project1pic2.PNG"]
+      },
+      {
+        "id": 1,
+        "project_name": "Pagination & Content Filter",
+        "description": "Long lists don't make for a good user experience on a web page. In this project, we'll enhance the usability of a web page that contains a long list by employing JavaScript to dynamically divide the list into \"pages\". As a bonus challenge, we'll add a search feature to display only the students that match the search criteria.",
+        "technologies": ["HTML5", "CSS3", "JavaScript"],
+        "live_link": "https://briannacolmos.github.io/Project2/",
+        "github_link": "https://github.com/briannacolmos/Project2",
+        "image_urls": ["/static/images/Project2pic1.PNG"]
+      },
+      {
+        "id": 2,
+        "project_name": "Build an Interactive Form",
+        "description": "Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. For this project, you’ll use your skills to enhance a form so that it’s engaging, interactive, and easy to use.",
+        "technologies": ["HTML5", "CSS3", "JavaScript"],
+        "live_link": "https://briannacolmos.github.io/Project3/",
+        "github_link": "https://github.com/briannacolmos/Project3",
+        "image_urls": ["/static/images/Project3pic1.PNG", "/static/images/Project3pic2.PNG"]
+      },
+      {
+        "id": 3,
+        "project_name": "Game Show APP",
+        "description": "A browser-based, word guessing game: Vine Hunter. You’ll use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+        "technologies": ["HTML5", "CSS3", "JavaScript"],
+        "live_link": "https://briannacolmos.github.io/Project4/",
+        "github_link": "https://github.com/briannacolmos/Project4",
+        "image_urls": ["/static/images/Project4pic1.PNG", "/static/images/Project4pic2.PNG"]
+      },
+      {
+        "id": 4,
+        "project_name": "Use a Public API to Create an Employee Directory ",
+        "description": "Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
+        "technologies": ["JavaScript", "HTML"],
+        "live_link": "https://briannacolmos.github.io/Project5/",
+        "github_link": "https://briannacolmos.github.io/Project5/",
+        "image_urls": ["/static/images/Project5pic1.PNG", "/static/images/Project5pic2.PNG"]
+      }
+    ]
+  }

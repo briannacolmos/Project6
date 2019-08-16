@@ -1,0 +1,52 @@
+h1 {
+    color: #6E84B7;
+}
+
+#my-info {
+    background: #6E84B7;
+}
+
+#my-info .thumbnail {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+#my-info h5 {
+    font-weight: bold;
+    text-shadow: 2px 2px #0a0a0a;
+}
+
+#my-info .text-light {
+    color: lightgray;
+}
+
+#my-info a {
+    color: white;
+}
+
+.portfolio-index .thumbnail {
+    border: solid 4px lightgray;
+    border-radius: 5px;
+    transition: transform .2s ease-out;
+}
+
+.portfolio-index .thumbnail:hover {
+    transform:scale(1.2);
+}
+
+.portfolio-meta > ul > li {
+    font-weight: bold;
+    color: darkgray;
+}
+
+.button {
+    background: #6E84B7;
+    font-weight: bold;
+    transition: transform .2s ease-out;
+}
+
+.button:hover {
+    background: lightblue;
+    transform:scale(1.1);
+}
