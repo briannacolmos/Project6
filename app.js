@@ -47,13 +47,12 @@ app.use((err, req, res, next) => {
   res.render('error');
 });
   
-//   // Console Log
-//   //console.error('Error message:', err.message, ', Error status:', err.status)
+// //   // Console Log
+// console.error('Error message:', err.message, ', Error status:', err.status)
 
-//   // Error Page
-//   res.status(status);
-//   res.render('error');
-// });
+// Error Page
+//  res.status(status);
+//    res.render('error');
 
 // App listen
 app.listen(3000, () => {
